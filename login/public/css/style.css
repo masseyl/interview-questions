@@ -1,0 +1,36 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+fieldset {
+	position: fixed;
+	margin: 25%;
+}
+
+.hide {
+	display: none;
+}
+
+fieldset span input{
+	width: 100%;
+}
+.alert {
+	position: fixed;
+	margin-right: 25%;
+	margin-left: 25%;
+	top: 0;
+	z-index: 2;
+}
+.alert.alert-error {
+	display: none;
+}
+.alert.alert-success {
+	display: none;
+}
+.alert.show {
+	display: block;
+}
