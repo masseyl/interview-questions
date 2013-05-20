@@ -1,0 +1,9 @@
+To run make sure nodejs is running on your machine on port 3000
+
+Surf to http://localhost:3000/#/login to see the screen
+
+username: admin
+password: password
+
+All others get visits from Tazer Cat
+
